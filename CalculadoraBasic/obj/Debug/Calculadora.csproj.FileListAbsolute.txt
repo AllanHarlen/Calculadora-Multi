@@ -1,0 +1,9 @@
+C:\Users\allan\Desktop\Projetos C#\CalculadoraBasic\CalculadoraBasic\bin\Debug\CalculadoraBasic.exe.config
+C:\Users\allan\Desktop\Projetos C#\CalculadoraBasic\CalculadoraBasic\bin\Debug\CalculadoraBasic.exe
+C:\Users\allan\Desktop\Projetos C#\CalculadoraBasic\CalculadoraBasic\bin\Debug\CalculadoraBasic.pdb
+C:\Users\allan\Desktop\Projetos C#\CalculadoraBasic\CalculadoraBasic\obj\Debug\CalculadoraBasic.Form1.resources
+C:\Users\allan\Desktop\Projetos C#\CalculadoraBasic\CalculadoraBasic\obj\Debug\Sistema_de_Gestão_.Properties.Resources.resources
+C:\Users\allan\Desktop\Projetos C#\CalculadoraBasic\CalculadoraBasic\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\allan\Desktop\Projetos C#\CalculadoraBasic\CalculadoraBasic\obj\Debug\CalculadoraBasic.exe
+C:\Users\allan\Desktop\Projetos C#\CalculadoraBasic\CalculadoraBasic\obj\Debug\CalculadoraBasic.pdb
+C:\Users\allan\Desktop\Projetos C#\CalculadoraBasic\CalculadoraBasic\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
