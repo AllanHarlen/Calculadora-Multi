@@ -92,6 +92,7 @@ namespace CalculadoraBasic
                 
         private void button18_Click(object sender, EventArgs e)
         {
+            // LIMPAR TUDO
             continha.Total = "0";
             textBox1.Text = "";
             textBox2.Text = "0";
