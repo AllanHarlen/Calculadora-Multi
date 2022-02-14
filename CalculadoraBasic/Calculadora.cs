@@ -12,6 +12,7 @@ namespace CalculadoraBasic
         private string total;
         private static string condition;
 
+        // testeando
         private double Soma(double p1, double p2)
         {
             return p1 + p2;
