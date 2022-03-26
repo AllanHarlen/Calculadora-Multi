@@ -15,6 +15,7 @@ namespace CalculadoraBasic
     {
 
         Calculadora continha = new Calculadora();
+        public string historico = ""; 
 
         public Form1()
         {
@@ -167,6 +168,7 @@ namespace CalculadoraBasic
                         else
                         {
                             continha.Calcular(condition, textBox1.Text, textBox2.Text);
+                            historico = historico + textBox1.Text + " " + condition + " " + textBox2.Text + " = " + continha.Total + " \n";
                         }
                         textBox2.Text = continha.Total;
                         textBox1.Text = "";
@@ -231,6 +233,14 @@ namespace CalculadoraBasic
             else
             {
                 e.Handled = true;
+            }
+        }
+
+        private void historicoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (historico != "")
+            {
+                MessageBox.Show(historico);
             }
         }
     }
